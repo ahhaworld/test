@@ -1,0 +1,17 @@
+https://www.youtube.com/watch?v=wNr7YqjjzOY
+https://www.youtube.com/watch?v=eLG_iu9n1z0
+https://www.youtube.com/watch?v=N-v_DBFbZxo
+https://www.youtube.com/watch?v=U6E5Jd0Rhkw
+
+Instance i-7b310373
+Private IP Address 172.31.12.14
+
+
+Commands
+
+1. ls -l
+2. chmod 400 testTutorial.pem
+3. ssh -i testTutorial.pem ubuntu@54.216.167.75
+4. sudo apt-get install apache2 libapache2-mod-php5 mysql-server php5-mysql php5
+5. change file name - sudo oldfile.txt newfile.txt
+6. Edit file- sudo nano filename.txt
